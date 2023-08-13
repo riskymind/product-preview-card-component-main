@@ -17,12 +17,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/screenshot1.jpg)
+![](./design/screenshot1.png)
 
 ### Links
 
 - Solution URL: https://github.com/riskymind/product-preview-card-component-main
-<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Live Site URL: https://riskymind.github.io/product-preview-card-component-main
 
 ### Built with
 
